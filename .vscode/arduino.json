@@ -1,0 +1,6 @@
+{
+    "port": "/dev/cu.usbmodem14101",
+    "board": "arduino:megaavr:nona4809",
+    "configuration": "mode=on",
+    "sketch": "arduino_xmas19.ino"
+}
